@@ -1,4 +1,4 @@
-#ifndef Object-like Macro
-#define Object-like Macro
+#ifndef OBJECT_LIKE_MACRO
+#define OBJECT_LIKE_MACRO
 #define SIZE 1024
 #endif
